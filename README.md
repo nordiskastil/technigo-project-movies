@@ -27,5 +27,5 @@ Maybe add more options or styling.
 - How to run the project locally
 
 ## View it live
-
+https://nathalies-movie-library.netlify.app/
 
